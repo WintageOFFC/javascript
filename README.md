@@ -1,4 +1,4 @@
-!!! -> branch1 change 3.1 <- !!!
+!!! -> branch1 change 3.2 <- !!!
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
